@@ -1,0 +1,14 @@
+.apply-color__btn {
+    background: #f44242;
+    color: #fff;
+    font-size: .7em;
+    padding: 3px;
+    border-radius: 3px;
+    border: none;
+    cursor: pointer;
+    transition: all .2s ease-in;
+}
+
+.apply-color__btn:active {
+    transform: scale(0.8);
+}

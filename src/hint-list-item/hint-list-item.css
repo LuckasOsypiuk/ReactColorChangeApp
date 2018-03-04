@@ -1,0 +1,21 @@
+.hint-list__item {
+    padding: 5px 15px 5px 15px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.hint-list__item span {
+    margin: 0 10px 0 0;
+}
+
+.hint-list__item:hover {
+    background: #f4f4f4f4;
+}
+
+.color-rectangle {
+    display: inline-block;
+    border: 1px solid #000000;
+    opacity: .5;
+    width: 50px;
+    height: 26px;
+}
